@@ -1,0 +1,19 @@
+Wymagania funkcjonalne
+
+-logowanie i rejestracja
+-Możliwosc przegldania roznych kategorii dlugopisow i czesci do nich
+-dodawanie przedmiotow do koszyka
+-zakup przedmiotow
+-Dostep do szczegolowych informacji o kazdym produkcie
+
+
+
+Wymagania niefunkcjonlane
+
+-Zabezpieczenie danych osobowych zgodnie z obowiazujacymi przepisami
+-Wydajnosc
+-Dostepnosc strony
+-intuicyjny interfejs
+-Dostosowanie wygladu strony do potrzeb uzytkownikow niepelnosprawnych
+-Regularne aktualizacje
+-Szybka reakcja na zgloszone bledy i problemy techniczne
